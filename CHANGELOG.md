@@ -2,6 +2,11 @@
 
 All notable changes to **Guidelime: CatchUp** will be documented in this file.
 
+## [1.0.1] - 2026-11-26
+
+### Changed
+- Added `X-Curse-Project-ID: 1833513` TOC metadata for CurseForge and WowUp-CF automatic addon matching.
+
 ## [1.0.0] - 2026-11-26
 
 ### Added
