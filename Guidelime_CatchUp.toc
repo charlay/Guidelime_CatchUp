@@ -1,0 +1,20 @@
+## Interface: 16001, 11509, 11508, 20506, 30404, 38002, 40402, 50504
+## Title: Guidelime: CatchUp
+## Author: Charlay
+## Version: 1.0.0
+## Notes: Finds missing prerequisite chains and carried-over quests for any Guidelime guide using QuestieDB, and builds hub-batched, spatially optimized catch-up & merged guides.
+## IconTexture: Interface\AddOns\Guidelime\Icons\lime
+## Dependencies: Guidelime, Questie
+## SavedVariables: GuidelimeCatchUpDB
+## SavedVariablesPerCharacter: GuidelimeCatchUpCharDB
+## X-Category: Questing
+## X-License: MIT
+## X-Website: https://github.com/charlay/Guidelime_CatchUp
+## X-Bug-Report: https://github.com/charlay/Guidelime_CatchUp/issues
+
+GuideCapture.lua
+Parser.lua
+Scanner.lua
+GuideGenerator.lua
+UI.lua
+Core.lua
