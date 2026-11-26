@@ -2,6 +2,11 @@
 
 All notable changes to **Guidelime: CatchUp** will be documented in this file.
 
+## [1.0.2] - 2026-11-26
+
+### Changed
+- Added `X-Wago-ID: XKqEgbKy` TOC metadata for Wago Addons and WowUp (Wago edition) automatic matching and releases.
+
 ## [1.0.1] - 2026-11-26
 
 ### Changed

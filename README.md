@@ -6,6 +6,7 @@
 
 [![Release](https://img.shields.io/github/v/release/charlay/Guidelime_CatchUp?style=flat-square&color=82E600)](https://github.com/charlay/Guidelime_CatchUp/releases/latest)
 [![CurseForge](https://img.shields.io/badge/CurseForge-Guidelime%3A%20CatchUp-F16436?style=flat-square)](https://www.curseforge.com/wow/addons/guidelime-catchup)
+[![Wago Addons](https://img.shields.io/badge/Wago%20Addons-Guidelime%3A%20CatchUp-C1272D?style=flat-square)](https://addons.wago.io/addons/guidelime-catchup)
 [![License: MIT](https://img.shields.io/badge/License-MIT-82E600.svg?style=flat-square)](LICENSE)
 
 **Guidelime: CatchUp** is a standalone companion addon for **[Guidelime](https://github.com/max-ri/guidelime)** and **[Questie](https://github.com/Questie/Questie)**.
